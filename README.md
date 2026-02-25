@@ -1,5 +1,8 @@
 ## Hi there hi
 
+Jhanavi Jalagam
+Northeastern University
+Class Of 2029
 <!--
 **jhanavij888/jhanavij888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
